@@ -1,1 +1,3 @@
-# home-assistant-Rancher
+# Home Assistant Rancher Catalog
+
+# Version 1
