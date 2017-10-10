@@ -40,4 +40,5 @@ version: '1'
      label: 'MySQL Password'
      required: true
      type: 'password'
+     
 
